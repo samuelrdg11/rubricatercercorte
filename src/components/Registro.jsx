@@ -143,7 +143,7 @@ const Registro = (props) => {
             })
 
             const listaEditada = lista.map(
-                (elemento) => elemento.id === id ? { id: id, nombre: nombre, apellido: apellido, descripcion: descrip, ubicacion: ubi, fecha: date} :
+                (elemento) => elemento.id === id ? { id: id, nombre: nombre, apellido: apellido, descrip: descrip, ubi: ubi, date: date} :
                     elemento)
 
             setLista(listaEditada)
