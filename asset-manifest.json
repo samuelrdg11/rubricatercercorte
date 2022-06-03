@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rubricatercercorte/static/css/main.0512c44b.css",
+    "main.js": "/rubricatercercorte/static/js/main.74c68dca.js",
+    "index.html": "/rubricatercercorte/index.html",
+    "main.0512c44b.css.map": "/rubricatercercorte/static/css/main.0512c44b.css.map",
+    "main.74c68dca.js.map": "/rubricatercercorte/static/js/main.74c68dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0512c44b.css",
+    "static/js/main.74c68dca.js"
+  ]
+}
